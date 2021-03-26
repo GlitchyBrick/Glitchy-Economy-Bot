@@ -1,0 +1,12 @@
+{
+    "Enabled": true,
+    "Economy" : {
+        "BalCommand": true,
+        "BegCommand": true,
+        "DailyCommand": true,
+        "MonthlyCommand": true
+    },
+    "Commands" : {
+        "EconomyCommands": true
+    }
+}
