@@ -1,0 +1,12 @@
+{
+    "Daily": {
+        "Title": "Here are your daily coins, ",
+        "Description": "was placed in your wallet",
+        "Color": "RANDOM"
+    },
+    "Monthly": {
+        "Title": "Here are your monthly coins, ",
+        "Description": "was placed in your wallet",
+        "Color": "RANDOM"
+    }
+}

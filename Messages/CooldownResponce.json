@@ -1,0 +1,20 @@
+{
+    "Beg": {
+        "Title": "**Heeeyoo lets slow it down**",
+        "Description": "Stop begging so much, it makes you look like a little baby.\nThe Cooldown is 45 Seconds",
+        "Color": "BLACK",
+        "BegCooldownSecs": "45"
+    },
+    "Daily": {
+        "Title": "**You've already claimed your daily today**",
+        "Description": "Please Come Back Tomorrow to Claim your Daily Rewards",
+        "Color": "BLACK",
+        "Cooldownsecs": "86400000"
+    },
+    "Monthly": {
+        "Title": "**You've already claimed your Monthly This Month**",
+        "Description": "Please Come Back Next Month to Claim your Monthly Rewards",
+        "Color": "BLACK",
+        "Cooldownsecs": "604800000"
+    }
+}

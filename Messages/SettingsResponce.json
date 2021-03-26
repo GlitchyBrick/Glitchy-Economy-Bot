@@ -1,0 +1,12 @@
+{
+    "Enabled": "OOF! Looks Like Our Services are Down. Please Check Back Later",
+    "Economy" : {
+        "BalCommand": "It Looks Like The Bal Command is Currently Down. Please Check Back Later",
+        "BegCommand": "It Looks Like The Beg Command is Currently Down. Please Check Back Later",
+        "DailyCommand": "It Looks Like The Daily Command is Currently Down. Please Check Back Later",
+        "MonthlyCommand": "It Looks Like The Monthly Command is Currently Down. Please Check Back Later"
+    },
+    "Commands" : {
+        "EconomyCommands": "It Looks Like The Economy Commands is Currently Down. Please Check Back Later"
+    }
+}
